@@ -1,0 +1,271 @@
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.exe
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.dll.config
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.deps.json
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.runtimeconfig.json
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.runtimeconfig.dev.json
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.pdb
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationModels.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationLibrary.pdb
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.pdb
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.pdb
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationModels.pdb
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminLogin.resources
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminResultsView.resources
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminView.resources
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.CompetitionSelector.resources
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.JudgeLoginForm.resources
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.JudgeVotingForm.resources
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.Properties.Resources.resources
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AssemblyInfo.cs
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.CopyComplete
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.dll
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.pdb
+C:\Users\PC\Desktop\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.genruntimeconfig.cache
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.exe
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.dll.config
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.deps.json
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.runtimeconfig.json
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.runtimeconfig.dev.json
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.pdb
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationModels.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationLibrary.pdb
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.pdb
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.pdb
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationModels.pdb
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.AssemblyReference.cache
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminLogin.resources
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminResultsView.resources
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminView.resources
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.CompetitionSelector.resources
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.JudgeLoginForm.resources
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.JudgeVotingForm.resources
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.Properties.Resources.resources
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.GenerateResource.cache
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AssemblyInfoInputs.cache
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AssemblyInfo.cs
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.CoreCompileInputs.cache
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.CopyComplete
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.pdb
+C:\Users\Love Joy\source\repos\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.genruntimeconfig.cache
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.exe
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.dll.config
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.deps.json
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.runtimeconfig.json
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.runtimeconfig.dev.json
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.pdb
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationModels.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationLibrary.pdb
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.pdb
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.pdb
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationModels.pdb
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.AssemblyReference.cache
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminLogin.resources
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminResultsView.resources
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminView.resources
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.CompetitionSelector.resources
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.JudgeLoginForm.resources
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.JudgeVotingForm.resources
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.Properties.Resources.resources
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.GenerateResource.cache
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AssemblyInfoInputs.cache
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AssemblyInfo.cs
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.CopyComplete
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.pdb
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.genruntimeconfig.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.exe
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.dll.config
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.deps.json
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.runtimeconfig.json
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.runtimeconfig.dev.json
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationModels.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationLibrary.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationModels.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminLogin.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminResultsView.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminView.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.CompetitionSelector.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.JudgeLoginForm.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.JudgeVotingForm.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.Properties.Resources.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.GenerateResource.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AssemblyInfo.cs
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.CopyComplete
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.genruntimeconfig.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminLogin.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminResultsView.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AdminView.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.CompetitionSelector.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.JudgeLoginForm.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.JudgeVotingForm.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.JudgeVotingFormFourCriteria.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.Properties.Resources.resources
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.GenerateResource.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.AssemblyInfo.cs
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.exe
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.dll.config
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.deps.json
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.runtimeconfig.json
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.runtimeconfig.dev.json
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\LyceumFoundation.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationModels.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationLibrary.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\bin\Debug\netcoreapp3.1\FoundationModels.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.csproj.CopyComplete
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\LyceumFoundation\obj\Debug\netcoreapp3.1\LyceumFoundation.genruntimeconfig.cache

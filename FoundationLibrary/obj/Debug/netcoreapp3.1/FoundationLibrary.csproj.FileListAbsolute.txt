@@ -1,0 +1,85 @@
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.deps.json
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.pdb
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.dll
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.dll
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationModels.dll
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.pdb
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationModels.pdb
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.pdb
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.AssemblyInfo.cs
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.CopyComplete
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\PC\Desktop\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.pdb
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.deps.json
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.pdb
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationModels.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.pdb
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationModels.pdb
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.pdb
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.AssemblyReference.cache
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.AssemblyInfoInputs.cache
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.AssemblyInfo.cs
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.CopyComplete
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\Love Joy\source\repos\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.pdb
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.deps.json
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.pdb
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationModels.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.pdb
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationModels.pdb
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.pdb
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.AssemblyReference.cache
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.AssemblyInfoInputs.cache
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.AssemblyInfo.cs
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.CopyComplete
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\PC\Videos\LyceumFoundation\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.deps.json
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationModels.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationModels.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.AssemblyInfo.cs
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.CopyComplete
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.deps.json
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationLibrary.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationModels.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationBusinessDataAccessLibrary.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationModels.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\bin\Debug\netcoreapp3.1\FoundationDataAccessLibrary.pdb
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.AssemblyInfo.cs
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.csproj.CopyComplete
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.dll
+C:\Users\PC\Documents\LyceumFoundation-UPDATED - BackUp\LyceumFoundation\FoundationLibrary\obj\Debug\netcoreapp3.1\FoundationLibrary.pdb
